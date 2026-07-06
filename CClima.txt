@@ -1,0 +1,12 @@
+El presente cuaderno de trabajo en VSC con Python tiene como proposito
+ el análisis de datos meteorológicos, en Venezuela, especificamente
+1. Extraer
+2. Procesar
+3. Visualizar 
+Datos climáticos históricos mediante el uso de:
+Google Earth Engine
+conjunto de datos ERA5.
+
+Evaluar, valorar, patrones de cambios en 
+Temperatura, 
+Precipitación
